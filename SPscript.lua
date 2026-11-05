@@ -4,7 +4,7 @@
 --       UI Library: Rayfield (custom theme)
 --==================================================
 
-local LOGO_ID = 134486997418064
+local LOGO_ID = "rbxassetid://134486997418064"
 local VERSION = "Delta-2.745.1142"
 
 --==================================================
